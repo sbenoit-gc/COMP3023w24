@@ -12,5 +12,5 @@ Attributions:
  
 
 ## Usage
-Clone, or download the zip, to a local directory. Open in Unreal Engine 5.3.2 or newer
+Clone, or download the zip, to a local directory. Open in Unreal Engine 5.3.2 or newer.
 
