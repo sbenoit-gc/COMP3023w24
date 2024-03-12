@@ -100,3 +100,6 @@ IOS/*
 # Windows Builds
 WindowsNoEditor/*
 Windows/*
+
+# Linux Builds
+Linux/*
