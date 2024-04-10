@@ -14,7 +14,10 @@ Attributions:
 8. leaf tree, Aredon, OpenGameArt, ( https://opengameart.org/content/lowpoly-leaftree )
 9. reed, Aredon, OpenGameArt, ( https://opengameart.org/content/lowpoly-reed )
 10. Image TV screen, A Red Sky, Luke Miller on Pexels, ( https://www.pexels.com/photo/a-red-sky-20654354/ )
-11. Pig, from "Animal Variety Pacl" Free colelction, PROTOFACTOR INC, Unreal Engine MarketPlace
+11. Pig, from "Animal Variety Pack" Free collection, PROTOFACTOR INC, Unreal Engine MarketPlace
+12. Stadium 01 HDRI, Sergej Majboroda , PolyHaven, ( https://polyhaven.com/a/stadium_01 )
+13. Pig, Animal Variety pack, Unreal Engine MarketPlace, ( https://www.unrealengine.com/marketplace/en-US/product/17c2d7d545674204a7644c3c0c4c58ba )
+
 
 
 
